@@ -1,6 +1,6 @@
 {
   "name": "mono-format",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A string, date and number formatter based on .Net's String.Format",
   "main": "lib/index.js",
   "types": "lib",
