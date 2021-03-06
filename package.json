@@ -1,0 +1,21 @@
+{
+  "name": "mono-format",
+  "version": "0.1.0",
+  "description": "A string, date and number formatter based on .Net's String.Format",
+  "main": "lib/index.js",
+  "types": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yzaroui/mono-format"
+  },
+  "homepage": "https://github.com/yzaroui/mono-format",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "keywords": [],
+  "author": "Yassine Zaroui",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
